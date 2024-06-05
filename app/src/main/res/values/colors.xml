@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="startColor">#121481</color>
+    <color name="endColor">#FFB1B1</color>
+    <color name="fillColor">#FFEAE3</color>
+    <color name="strong_red">#C51236</color>
+    <color name="alice_blue">#F0F8FF</color>
+    <color name="ghost_white">#F8F8FF</color>
+    <color name="amoled_black">#000000</color>
+    <color name="dark_mode_black">#121212</color>
+</resources>

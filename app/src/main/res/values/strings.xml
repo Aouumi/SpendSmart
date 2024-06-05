@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SpendSmart</string>
+    <string name="main_name">SPEND SMART</string>
+    <string name="credit_sub">Made by Team Mirai</string>
+    <string name="logo_desc">App Logo</string>
+    <string name="login_greet">Welcome to Spend Smart!</string>
+    <string name="username_login">Email or Username</string>"
+    <string name="password_login">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>">
+    <string name="no_account">Don\'t have an account?</string>"
+    <string name="text_signup">Sign Up</string>
+    <string name="signup_title">Sign Up For An Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup_button">SIGN UP</string>
+    <string name="backButton_desc">Back Button</string>"
+    <string name="menuButton_desc">Menu Button</string>
+
+</resources>
